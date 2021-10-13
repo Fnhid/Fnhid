@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Fnhid
-- 👀 I’m interested in ... Secure Programming
-- 🌱 I’m currently learning ... Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : {"Discord" : "Fnhid#2335"}
 
 <!---
