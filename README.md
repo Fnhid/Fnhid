@@ -1,5 +1,4 @@
 <h1>👋 Hi, I’m Fnhid,</h1>
-- 👶 Super Duper Noob <br>
 - 🏫 KDMHS 20th HD <br>
 - 💻 Interested in Cybersecurity and Programming <br>
 - 📫 How to reach me : {"Discord" : "Fnhid#2335"} <br>
