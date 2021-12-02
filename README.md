@@ -5,8 +5,6 @@
 - 🚩 CTF Works 🚩<br>
 <code> 7th - Hacking Championship junior 2021 Quals (Team 찍먹만할게요) </code><br>
 <code> 5th - CyberGuardians CTF 2021 Quals (Team 찍먹만할게요) </code>
+<br><br>
 
-<!---
-Fnhid/Fnhid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnhid&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
