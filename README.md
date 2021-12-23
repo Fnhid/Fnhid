@@ -1,7 +1,8 @@
 <h1>👋 Hi, I’m Fnhid,</h1>
 - 🏫 KDMHS 20th HD <br>
 - 💻 Interested in Cybersecurity and Programming <br>
-- 📫 How to reach me : {"Discord" : "Fnhid#2335"} <br>
+- 📫 How to reach me : 
+- <code>{"Email" : "fnhid05@gmail.com", "Discord" : "Fnhid#2335"}</code> 
 
 <br><br>
 
