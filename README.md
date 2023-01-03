@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fnhid,</h1>
 - 🏫 KDMHS 20th HD <br>
-- 💻 Interested in Cybersecurity and Programming <br>
+- 💻 Interested in Cybersecurity & Dev <br>
 - 📫 How to reach me : 
   <code>{"Email" : "fnhid05@gmail.com", "Discord" : "Fnhid#2335"}</code> 
 
