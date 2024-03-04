@@ -1,5 +1,6 @@
 # 👋 Hi, I’m YuHyeon Cha,</h1>
-- 🏫 KDMHS 20th HD <br>
+- 🏫 CAU Computer Science and Engineering (2024~)
+- KDMHS 20th HD (2021~2023) <br>
 - 💻 Interested in Cybersecurity & Dev <br>
 - 📫 How to reach me : 
   <code>{"Email" : "fnhid05@gmail.com", "Discord" : "Fnhid#2335"}</code> 
